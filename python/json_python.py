@@ -7,5 +7,5 @@ dados_gravados={
 
 }
 
-with open('dados_gravados.json','w') as json_file:
-        json.dump(dados_gravados,json_file,indent=4,sort_keys=False)
+with open('../dados_gravados.json','w') as json_file:
+        json.dump(dados_gravados,json_file,indent=4)
