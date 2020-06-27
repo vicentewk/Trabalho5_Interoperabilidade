@@ -1,8 +1,8 @@
 {
-    "curso": "Ciencia da Computacao", 
-    "professor": "Edson Padoin", 
     "nomes": [
-        "Vicente", 
+        "Vicente",
         "Kassuelo"
-    ]
+    ],
+    "curso": "Ciencia da Computacao",
+    "professor": "Edson Padoin"
 }

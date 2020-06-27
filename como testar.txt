@@ -1,0 +1,30 @@
+___PARA GRAVAR O JSON___
+
+#verificar se o Python3 está insalado
+python3 --version
+
+#instalar caso não esteja
+sudo apt-get install python3
+
+#verificar se foi instalado corretamente
+python3 --version
+
+#para executar o algoritmo de escrita de json em python
+Entre no diretório python e abra um terminal. Após, execute o comando "python3 json_python.py".
+Caso retorne a mensagem ("Json gerado com sucesso"), o arquivo foi criado corretamente.
+
+
+
+___PARA LER O JSON___
+#instalar o node.js
+sudo apt install npm
+
+#verificar se instalou
+node -v
+
+#para ler o arquivo entre na pasta do projeto e execute o terminal
+
+#com o terminal aberto na pasta do projeto digite
+node script.js
+
+#será exibido os dados do arquivo dados_gravados.json
